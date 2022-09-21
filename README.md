@@ -11,3 +11,5 @@ DML COMMANDS-(update,delete)-(https://github.com/8121409001/DBMS_192111597/blob/
 SELECT WITH VARIOUS CLAUSE-(where,pattern matching)-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%205.txt)
 ## experiment 6
 SELECT WITH VARIOUS CLAUSE-(betwwen,in,aggregate function)-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%206.txt)
+## experiment 7
+SELECT WITH VARIOUS CLAUSE-(GROUP BY,HAVING,ORDER BY)-
