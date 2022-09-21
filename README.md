@@ -6,4 +6,6 @@ DDL COMMANDS WITH CONSTRAINTS-(primary,foreign key,unique,chech)-(https://github
 ## experiment 3
 DML COMMANDS-(insert,select)-(https://github.com/8121409001/DBMS_192111597/blob/main/dbms%20experiment%203.txt)
 ## experiment 4
-DML COMMANDS-(update,delete)-(
+DML COMMANDS-(update,delete)-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%204.txt)
+## experiment 5
+SELECT WITH VARIOUS CLAUSE-(where,pattern matching)-(
