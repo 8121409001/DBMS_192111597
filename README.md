@@ -1,3 +1,5 @@
 # DBMS_192111597
 ## experiment 1
-DDL COMMANDS-(create,alter,drop)-(
+DDL COMMANDS-(create,alter,drop)-(https://github.com/8121409001/DBMS_192111597/blob/main/experment%201.txt)
+## experiment 2
+DDL COMMANDS WITH CONSTRAINTS-(primary,foreign key,unique,chech)-(
