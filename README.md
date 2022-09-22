@@ -24,4 +24,4 @@ Case scenario SQL Queries Implementation for Book Publishing Company-(https://gi
 ## experiment 23
 Case Scenario SQL Queries Implementation for General Hospital-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2023.txt)
 ## experiment 24
-
+Case Scenario SQL Queries Implementation for  Car Rental Company-(
