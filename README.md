@@ -16,4 +16,6 @@ SELECT WITH VARIOUS CLAUSE-(group by,having,order by)-(https://github.com/812140
 ## experiment 8
 SubQuery&Correlated Query-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%208.txt)
 ## experiment 9
-Joins-Equi join,outer join-(
+Joins-Equi join,outer join-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%209.txt)
+## experiment 10
+VIEW,INDEX,SEQUENCE-(
