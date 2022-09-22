@@ -20,6 +20,6 @@ Joins-Equi join,outer join-(https://github.com/8121409001/DBMS_192111597/blob/ma
 ## experiment 10
 VIEW,INDEX,SEQUENCE-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2010.txt)
 ## experiment 22
-Case scenario SQLQueries Implementation for Book Publishing Company-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2022.txt)
+Case scenario SQL Queries Implementation for Book Publishing Company-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2022.txt)
 ## experiment 23
-
+Case Scenario SQL Queries Implementation for General Hospital-(
