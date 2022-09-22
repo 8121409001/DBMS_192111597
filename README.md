@@ -19,3 +19,5 @@ SubQuery&Correlated Query-(https://github.com/8121409001/DBMS_192111597/blob/mai
 Joins-Equi join,outer join-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%209.txt)
 ## experiment 10
 VIEW,INDEX,SEQUENCE-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2010.txt)
+## experiment 22
+Case scenario SQLQueries Implementation for Book Publishing Company-(
