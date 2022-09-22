@@ -14,3 +14,4 @@ SELECT WITH VARIOUS CLAUSE-(betwwen,in,aggregate function)-(https://github.com/8
 ## experiment 7
 SELECT WITH VARIOUS CLAUSE-(group by,having,order by)-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%207.txt)
 ## experiment 8
+SubQuery&Correlated Query
