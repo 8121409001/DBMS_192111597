@@ -27,3 +27,7 @@ Case Scenario SQL Queries Implementation for General Hospital-(https://github.co
 Case Scenario SQL Queries Implementation for  Car Rental Company-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2024.txt)
 ## experiment 25
 Case Scenario SQL Queries Implementation for student progress for monitoring system-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2025.txt)
+## experiment 12
+Simple Programming exercises using-(repeat,while)-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2012.txt)
+## experiment 13
+TCL COMMANDS-(commit,rollback,savepoint)-(
