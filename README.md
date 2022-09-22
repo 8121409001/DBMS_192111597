@@ -22,4 +22,6 @@ VIEW,INDEX,SEQUENCE-(https://github.com/8121409001/DBMS_192111597/blob/main/expe
 ## experiment 22
 Case scenario SQL Queries Implementation for Book Publishing Company-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2022.txt)
 ## experiment 23
-Case Scenario SQL Queries Implementation for General Hospital-(
+Case Scenario SQL Queries Implementation for General Hospital-(https://github.com/8121409001/DBMS_192111597/blob/main/experiment%2023.txt)
+## experiment 24
+
